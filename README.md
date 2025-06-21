@@ -2,7 +2,7 @@
 Esta é uma **Interface Web** desenvolvida com **Angular**, **Tailwind CSS** e **TypeScript**, que consome uma API pública de filmes.
 Link do repositório do [Frontend](https://github.com/gxstavomiguel/filmes-web-frontend).
 
-![Filmes Web 1](public/filmesweb1.png)
+![Filmes Web 1](src/main/resource/static/filmesweb1.png)
 
 ## Tecnologias Utilizadas
 -   **Angular** 
@@ -16,7 +16,7 @@ Link do repositório do [Frontend](https://github.com/gxstavomiguel/filmes-web-f
 -   ✅ Visualizar informações sobre filmes
 -   ✅ Pesquisar por filmes específicos
 
-![Filmes Web 2](public/filmesweb2.png)
+![Filmes Web 2](src/main/resource/static/filmesweb2.png)
 
 ## Como Rodar 
 ### Pré-requisitos:
