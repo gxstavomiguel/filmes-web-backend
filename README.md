@@ -16,7 +16,7 @@ Link do repositório do [Frontend](https://github.com/gxstavomiguel/filmes-web-f
 -   ✅ Visualizar informações sobre filmes
 -   ✅ Pesquisar por filmes específicos
 
-![Filmes Web 2](src/main/resource/static/filmesweb2.png)
+![Filmes Web 2](src/main/resources/static/filmesweb2.png)
 
 ## Como Rodar 
 ### Pré-requisitos:
